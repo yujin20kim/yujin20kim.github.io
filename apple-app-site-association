@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "45P47XA3Z3.com.nhncorp.inhouse.worksone",
-                "paths": [ "/mail/*", "/calendar/*"]
+                "paths": [ "/mail/*", "/calendar/*", "*"]
             }
         ]
     }
